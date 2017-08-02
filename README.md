@@ -6,7 +6,7 @@ A [Python template](https://github.com/jeffgladstone/SQL-Tunnel/blob/master/sql_
 
 ## Purpose
 To directly work with .db and .csv files without having to use Relational Database Management Systems (RDBMS) such as SQLite or MySQL.
-Allows user to run SQL queries through Python and output coherent result sets in CSV without difficulty.
+Allows user to run SQL queries through Python and output coherent result sets to CSV without difficulty.
 
 ## Test
 An example using a 'boardgames' database can be found [here](https://github.com/jeffgladstone/SQL-Tunnel/tree/master/boardgames_example).
